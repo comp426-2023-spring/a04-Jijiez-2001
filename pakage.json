@@ -20,8 +20,8 @@
     "express": "^4.18.2",
     "minimist": "^1.2.8"
   },
-  "directories":{
-    "lib":"lib"
+  "directories": {
+    "lib": "lib"
   },
-  "type":"module"
+  "type": "module"
 }
